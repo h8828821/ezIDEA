@@ -1,5 +1,7 @@
-该代码用于实现Cityu 2024fall的Software Engineering的小组项目,作为本地搭建时的后端处理
+This code is used to realise the Software Engineering group project of Cityu 2024fall, as a back-end processing for the local build.
 
-其中json_return.py是主处理函数所在文件，使用时直接调用process函数，传入处理文件路径名即可
+json_return.py is the main processing function of the file, use directly call the process function, pass in the path name of the processing file can be
 
-pylint_process.py用于处理前端返回的需审查代码数据，并进行处理
+pylint_process.py is used to process the data returned by the front-end code to be reviewed and processed.
+
+improve_code.py is used to improve error-coded py file.
