@@ -1,5 +1,7 @@
-该代码用于实现Cityu 2024fall的Software Engineering的小组项目,后端由Flask实现
+This code is used to realise the Software Engineering group project for Cityu 2024fall, with the backend implemented in Flask.
 
-其中app.py是路由代码，负责页面渲染
+app.py is the routing code, responsible for rendering the page.
 
-pylint_process.py用于处理前端返回的需审查代码数据，并进行处理
+pylint_process.py is used to process the data returned by the front-end that needs to be reviewed.
+
+improve_code.py is used to improve error-coded py file.
