@@ -1,0 +1,18 @@
+{
+    "Error(s)": [
+        {
+            "file_name": "test.py",
+            "error_line": 2,
+            "error_col": 15,
+            "error_code": "E0602",
+            "error_message": "Undefined variable '__main__'"
+        }
+    ],
+    "Score(s)": [
+        {
+            "current_score": "0.00",
+            "previous_score": "0.00",
+            "change": "+0.00"
+        }
+    ]
+}
