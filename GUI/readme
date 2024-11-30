@@ -1,0 +1,5 @@
+This document displays all the function usage.
+1. ui/GUI.ui : This is the graphical interface to pyqt, mainly interface components such as buttons, display windows etc.
+2. main.py : This is the main function entry that adds functionality to the components depicted in the ui file so that they can give feedback when clicked.
+3. The other python files are mainly back-end processing logic and are not in the front-end instructions, see the back-end instructions for details.
+How to use: just go to main.py and click run, it will show the use window.
